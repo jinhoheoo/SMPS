@@ -38,7 +38,6 @@ https://youtube.com/shorts/sAFXUCncAM8
 5. 이 상태가 유지되어 2차측 전압이 감소하여 LED로 가는 전류가 감소하고  OFF가 됩니다. 그러면 EN(UV)핀이 다시 HIGH가 되고 TNY279가 다시 정상적인 작동을 하게 되어 FET가 ON/OFF 스위칭으로 안정적인 전압을 얻습니다.
 
 -결과
-전력 효율 문제
 
 1.사전 계획 문제로 인한 효율 문제
    
