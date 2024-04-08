@@ -24,7 +24,7 @@ https://youtube.com/shorts/sAFXUCncAM8
 
 ![image](https://github.com/jinhoheoo/SMPS/assets/153490852/bd05c39d-a4fa-48d6-b977-5fb2b7b6e834)
 
--동작원리
+## 동작원리
 
 1. 교류(AC85V ∼ 265V)나 직류(DC80V ∼ 240V) 전압이 인가되면 바리스타로 서지를 막아주고 퓨즈와 서미스터(NTC)는 돌입전류에 의해서 콘덴서 C6가 소손 되는 것을 막아줍니다.
 입력신호는 브릿지 다이오드를 거쳐 정류된 후 파이필터에 의해 평활되고 노이즈가 제거 되어 직류 전압이 됩니다.
@@ -37,7 +37,7 @@ https://youtube.com/shorts/sAFXUCncAM8
 
 5. 이 상태가 유지되어 2차측 전압이 감소하여 LED로 가는 전류가 감소하고  OFF가 됩니다. 그러면 EN(UV)핀이 다시 HIGH가 되고 TNY279가 다시 정상적인 작동을 하게 되어 FET가 ON/OFF 스위칭으로 안정적인 전압을 얻습니다.
 
--결과
+## 결과
 
 1.사전 계획 문제로 인한 효율 문제
    
@@ -63,12 +63,12 @@ https://youtube.com/shorts/sAFXUCncAM8
 
 -> 인덕턴스와 커패시턴스에 대한 이해를 바탕으로 전원에 퓨즈와 서미스터를 사용하여 돌입전류를 제한하고 바리스터를 이용해 서지 전압을 해결했습니다. 공통모드 노이즈와 차동모드 노이즈의 경우 라인필터와 X커패시터를 활용하여 해결하였고, 스위칭IC인 TNY279PN 내부의 MOSFET 스위칭으로 인해 발생하는 서지전압을 스너버회로로 해결했습니다.
 
--BOM
+## BOM
 
 ![image](https://github.com/jinhoheoo/SMPS/assets/153490852/eaefd9d5-5a04-4ba1-b012-366cded46aca)
 ![image](https://github.com/jinhoheoo/SMPS/assets/153490852/c8c41eae-2521-427e-af90-43c8e175160d)
 
--원가 분석표
+## 원가 분석표
 
 ![image](https://github.com/jinhoheoo/SMPS/assets/153490852/25c7f08f-c440-4f16-b0e9-0dbae596ffbe)
 ![image](https://github.com/jinhoheoo/SMPS/assets/153490852/ee561783-e869-4f5c-90e7-eb80cb6ba941)
