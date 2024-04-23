@@ -14,6 +14,10 @@
 ![image](https://github.com/jinhoheoo/SMPS/assets/153490852/d1748533-69fa-4812-b305-584416baee55)
 ![image](https://github.com/jinhoheoo/SMPS/assets/153490852/f8c0981d-5c2f-426d-82c9-d54d7ddf9a5c)
 
+<PI EXPERTS 출력 회로도>
+
+![PI 로 나온 SMPS](https://github.com/jinhoheoo/SMPS/assets/153490852/4018d3d3-1790-47fe-93b2-b6f28212fc2e)
+
 
 # SMPS 동작 영상
 
