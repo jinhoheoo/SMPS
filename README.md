@@ -13,7 +13,8 @@
 # 제작한 SMPS 및 PCB 
 
 ![./result.jpg](./1.jpg)
-![image](https://github.com/jinhoheoo/SMPS/assets/153490852/d1748533-69fa-4812-b305-584416baee55)
+![image](https://github.com/jinhoheoo/SMPS/assets/153490852/0a6280b1-b44c-4611-a96b-caa4cf932295)
+
 ![image](https://github.com/jinhoheoo/SMPS/assets/153490852/f8c0981d-5c2f-426d-82c9-d54d7ddf9a5c)
 
 <PI EXPERTS 출력 회로도>
